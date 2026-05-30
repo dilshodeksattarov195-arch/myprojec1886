@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterpecrypt",
+        "uuid": 15431252,
+        "checksum": "m2vgi"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
